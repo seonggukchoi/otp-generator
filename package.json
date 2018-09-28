@@ -1,7 +1,7 @@
 {
   "name": "otp-generator",
   "version": "1.0.0",
-  "description": "A simple HMAC-based OTP key generator use otplib",
+  "description": "A simple Time-based OTP key generator use otplib",
   "main": "index.js",
   "scripts": {
     "generate": "node index.js"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EricChoiKR/otp-generator/issues"
   },
-  "homepage": "https://github.com/EricChoiKR/otp-generator#readme"
+  "homepage": "https://github.com/EricChoiKR/otp-generator#readme",
+  "dependencies": {
+    "otplib": "^10.0.1"
+  }
 }
