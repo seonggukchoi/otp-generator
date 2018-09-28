@@ -1,0 +1,19 @@
+{
+  "name": "otp-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricChoiKR/otp-generator.git"
+  },
+  "author": "SeonggukChoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricChoiKR/otp-generator/issues"
+  },
+  "homepage": "https://github.com/EricChoiKR/otp-generator#readme"
+}
