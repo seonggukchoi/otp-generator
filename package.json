@@ -1,10 +1,10 @@
 {
   "name": "otp-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple HMAC-based OTP key generator use otplib",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate": "node index.js"
   },
   "repository": {
     "type": "git",
