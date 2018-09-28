@@ -1,6 +1,6 @@
 # otp-generator
 
-A simple HMAC-based OTP key generator use otplib
+A simple Time-based OTP key generator use otplib
 
 ## Run
 
