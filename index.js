@@ -9,4 +9,5 @@ if (process.argv.length < 3 || process.argv.length > 3) {
 const secret = process.argv[2];
 const otp_key = otplib.authenticator.generate(secret);
 
-console.log(otp_key);
+process.stdout.write(otp_key);
+
